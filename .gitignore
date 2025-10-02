@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Compiled files
+*.exe
+*.out
+a.out
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Test files
+input.txt
+output.txt
+
+# Logs
+*.log
+debug.log
+error.log
+
+# Private Notes
+**.notes.**
+commitsNotation.txt
